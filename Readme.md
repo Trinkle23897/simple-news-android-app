@@ -14,8 +14,8 @@
 ## Screenshots
 
 <div>
-<img src="pic/Screenshot_20180915-120413.jpg" width=30%>
-<img src="pic/Screenshot_20180915-120423.jpg" width=30%>
-<img src="pic/Screenshot_20180915-120439.jpg" width=30%>
-<img src="pic/Screenshot_20180915-120513.jpg" width=30%>
+<img src="pic/Screenshot_20180915-120413.jpg" width=40%>
+<img src="pic/Screenshot_20180915-120423.jpg" width=40%>
+<img src="pic/Screenshot_20180915-120439.jpg" width=40%>
+<img src="pic/Screenshot_20180915-120513.jpg" width=40%>
 </div>
