@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="选择订阅项目"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:title="在该页面搜索"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_nofavor"
+        android:orderInCategory="100"
+        android:title="清空所有收藏"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:title="清空缓存"
+        app:showAsAction="never" />
+</menu>
