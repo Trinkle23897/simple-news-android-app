@@ -1,6 +1,6 @@
 # Simple News
 
-
+Implement with SDK24, Android version>=7.0
 
 ## Features
 
@@ -19,3 +19,4 @@
 <img src="pic/Screenshot_20180915-120439.jpg" width=40%>
 <img src="pic/Screenshot_20180915-120513.jpg" width=40%>
 </div>
+
